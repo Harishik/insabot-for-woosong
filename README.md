@@ -9,7 +9,6 @@
 Answers students, parents, and staff in **14 languages** — grounded only in official university sources, never hallucinated.
 
 <!-- CI/CD status badges — replace OWNER/REPO after pushing to GitHub -->
-[![CI](https://github.com/OWNER/REPO/actions/workflows/ci.yml/badge.svg)](https://github.com/OWNER/REPO/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
