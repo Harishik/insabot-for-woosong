@@ -13,7 +13,7 @@ Thanks for your interest in contributing! This guide covers how to set up your e
 
 ## Development setup
 
-This is a polyglot monorepo: a **FastAPI** backend (`backend/`) and a **React + Vite** frontend (`frontend/`). See [CLAUDE.md](CLAUDE.md) for the full layout.
+This is a polyglot monorepo: a **FastAPI** backend (`backend/`) and a **React + Vite** frontend (`frontend/`).
 
 ```bash
 # 1. Fork and clone
