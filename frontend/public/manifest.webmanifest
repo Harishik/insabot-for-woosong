@@ -1,0 +1,23 @@
+{
+  "name": "InsaBot for Woosong",
+  "short_name": "InsaBot",
+  "description": "Verified multilingual WSU AI Assistant",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f9fd",
+  "theme_color": "#0758d8",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/woosong-logo.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}

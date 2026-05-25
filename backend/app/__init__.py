@@ -1,0 +1,1 @@
+"""InsaBot for Woosong backend."""
